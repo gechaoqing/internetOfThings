@@ -8,11 +8,12 @@
     <artifactId>internet-things-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <url>http://maven.apache.org</url>
-    <name>internetOfThings Study</name>
+    <name>internetOfThings Samples</name>
 
     <modules>
         <module>mina</module>
         <module>activemq</module>
+        <module>webserver</module>
     </modules>
     <dependencies>
         <dependency>
